@@ -7,5 +7,9 @@ requires-python = ">=3.14"
 dependencies = [
     "agno==1.5.0",
     "groq>=0.36.0",
+    "openai>=2.8.1",
     "python-dotenv>=1.2.1",
+    "sqlalchemy>=2.0.44",
+    "tavily-python>=0.7.13",
+    "uvicorn>=0.38.0",
 ]
